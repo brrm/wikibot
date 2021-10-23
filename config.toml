@@ -1,0 +1,7 @@
+username = ""
+password = ""
+clientID = ""
+clientSecret = ""
+userAgent = ""
+
+subreddits = []
